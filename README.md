@@ -1,0 +1,4 @@
+- 👋 Olá, meu nome é Arthur.
+- 👀 Estou interessado em ser programador
+- 🌱 Game Designer
+- 📫 Meu Instagram: @arthur_amaral.g
