@@ -11,7 +11,7 @@
 
 <h3 align="left">fale comigo:</h3>
 <p align="left">
-<a href="https://instagram.com/@arthur_amaral.g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@arthur_amaral.g" height="30" width="40" /></a>
+<a href="https://www.instagram.com/arthur_amaral.g/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arthur_amaral.g" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Linguagens:</h3>
