@@ -3,7 +3,7 @@
 
 - 🌱 No momento estou aprendendo **Curso de Técnico em Programação de Jogos Digitais**
 
-- 💬 Me pergunte sobre **jogos, comidas, tecnologia**
+- 💬 Me pergunte sobre **Jogos e tecnologia**
 
 - 📫 Como chegar até mim **@arthur_amaral.g**
 
