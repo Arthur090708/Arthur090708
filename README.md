@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou o Arthur Amaral</h1>
-<h3 align="center">Um jovem de 13 anos com um sonho em ser programador.</h3>
+<h3 align="center">Um jovem com um sonho em ser programador.</h3>
 
 - 🌱 No momento estou aprendendo **Curso de Técnico em Programação de Jogos Digitais**
 
